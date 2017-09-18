@@ -8,4 +8,5 @@ public class OddFilter {
     System.out.println(oddFilter(Arrays.asList(1, 2, 3, 4, 5)));
     // should print [1, 3, 5]
   }
+
 }
